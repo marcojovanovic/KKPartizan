@@ -1,0 +1,11 @@
+{
+  "name": "partizan2010",
+  "version": "1.0.0",
+  "description": "\"Neka bolja vremena\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Marko Jovanovic\"",
+  "license": "ISC"
+}
